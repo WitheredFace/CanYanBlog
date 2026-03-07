@@ -23,25 +23,25 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Bilibli",
-			icon: "fa6-brands:bilibili",
+			icon: "fa7-brands:bilibili",
 			url: "https://b23.tv/RdRfWOf",
 			showName: false,
 		},
 		{
 			name: "GitHub",
-			icon: "fa6-brands:github",
+			icon: "fa7-brands:github",
 			url: "https://github.com/love-BL",
 			showName: false,
 		},
 		{
 			name: "Email",
-			icon: "fa6-solid:envelope",
+			icon: "fa7-solid:envelope",
 			url: "mailto:canyan886@gmail.com",
 			showName: false,
 		},
 		{
 			name: "RSS",
-			icon: "fa6-solid:rss",
+			icon: "fa7-solid:rss",
 			url: "/rss/",
 			showName: false,
 		},
