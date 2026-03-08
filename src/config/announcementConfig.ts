@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "个人技术博客，仅分享服务器评测与运维经验",
+	content: "个人技术博客，请分享技术内容和操作",
 
 	// 是否允许用户关闭公告
 	closable: true,

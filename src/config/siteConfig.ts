@@ -7,28 +7,37 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "服务器测评",
+	title: "江舟晚行的个人博客",
 
 	// 站点副标题
-	subtitle: "残颜Blog",
+	subtitle: "江晚Blog",
 
 	// 站点 URL
 	site_url: "https://xoxor.top",
 
 	// 站点描述
 	description:
-		"个人技术博客，专注服务器硬件评测、配置与运维经验分享，为爱好者提供实用参考与学习交流。",
+		"记录技术学习与折腾，做真实的技术分享。",
 
 	// 站点关键词
 	keywords: [
-		"服务器评测",
-		"服务器运维",
-		"服务器科普",
-		"个人服务器",
-		"服务器教程",
-		"服务器推荐",
-		"运维笔记",
-	],
+	"IT技术分享",
+	"Linux教程",
+	"服务器搭建",
+	"运维技术",
+	"VPS使用",
+	"内网穿透",
+	"网站搭建",
+	"开源工具",
+	"技术笔记",
+	"网络技术",
+	"低成本建站",
+	"系统优化",
+	"编程学习",
+	"博客搭建",
+	"技术干货"
+    ],
+
 
 	// 主题色
 	themeColor: {
@@ -57,11 +66,11 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/favicon.ico",
+			src: "assets/tx.jpg",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
-			// sizes: "32x32",
+			sizes: "32x32",
 		},
 	],
 
@@ -75,7 +84,7 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/firefly.png",
+			value: "assets/tx.jpg",
 			alt: "🍀",
 		},
 		// 导航栏标题

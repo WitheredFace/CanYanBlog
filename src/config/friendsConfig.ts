@@ -10,15 +10,15 @@ export const friendsPageConfig: FriendsPageConfig = {
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
-	{
-		title: "残颜",
+	/*{
+		title: "江舟晚行",
 		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640",
 		desc: "喜欢打游戏、刷视频，沉迷研究IT技术，偶尔折腾服务器与代码。",
 		siteurl: "https://blog.cuteleaf.cn",
 		tags: ["Blog", "IT", "Gamer"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
-	},
+	},*/
 ];
 
 // 获取启用的友链并按权重排序
