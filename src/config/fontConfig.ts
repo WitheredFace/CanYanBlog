@@ -22,12 +22,6 @@ export const fontConfig = {
 				"system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
 		},
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&display=swap" rel="stylesheet">
-
-
-
 		// Google Fonts - Zen Maru Gothic
 		"LXGW-WenKai-Mono": {
 			id: "LXGW-WenKai-Mono",
